@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main(){
+    printf("***DESAFIO SUPER TRUNFO!***");
+    
     char Estado1 [50], Estado2 [50] ;
     char CodigoCarta1 [50], CodigoCarta2 [50] ;
     char NomeCidade1 [50], NomeCidade2 [50] ;
